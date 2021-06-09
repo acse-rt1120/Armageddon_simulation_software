@@ -1,0 +1,12 @@
+*~
+*.ipynb_checkpoints
+*pycache*
+*.ipynb
+
+.DS_Store
+.pytest_cache/
+acse4/
+auxiliary/
+damage_map.html
+
+ProjectDescription.ipynb
